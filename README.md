@@ -100,7 +100,7 @@ NexusPool is listed among the **production pools on the official Stratum V2 site
 
 ## Status
 
-Live on **Bitcoin mainnet** at [nexuspool.io](https://nexuspool.io), currently **v0.6.26.37** — pre-1.0 (v0.6.x), in active hardening. This repository is being opened up progressively — starting with this README.
+Live on **Bitcoin mainnet** at [nexuspool.io](https://nexuspool.io), currently **v0.7.26.13** — pre-1.0 (v0.6.x), in active hardening. This repository is being opened up progressively — starting with this README.
 
 ## License
 

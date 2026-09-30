@@ -141,7 +141,7 @@ NexusPool is listed among the **production pools on the official Stratum V2 site
 
 ## Status
 
-Live on mainnet at [nexuspool.io](https://nexuspool.io) across Bitcoin, Bitcoin Cash, and Litecoin + Dogecoin merged mining, currently **v0.8.26.12** — pre-1.0, in active hardening. This repository is being opened up progressively — starting with this README.
+Live on mainnet at [nexuspool.io](https://nexuspool.io) across Bitcoin, Bitcoin Cash, and Litecoin + Dogecoin merged mining, currently **v0.10.26.5** — pre-1.0, in active hardening. This repository is being opened up progressively — starting with this README.
 
 ## License
 
